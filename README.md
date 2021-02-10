@@ -7,7 +7,9 @@ I'm studying every day and want to share my projects to you.
 #### "No words, just code!" 🤙
 
 ➡️ Living in Niterói, RJ
+
 ➡️ Study at Estácio, Danki Code, Rocketseat and google 🌐
+
 ➡️ If you can follow me and rate my projects, go ahead! ⭐
 
 ### My Social Medias 👇
