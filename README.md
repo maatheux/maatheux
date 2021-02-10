@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello There
 
-<!--
-**MatheusLima04/MatheusLima04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Matheus Lima, I'm from Brazil and I'm Front-end Developer 💻
 
-Here are some ideas to get you started:
+I'm studying every day and want to share my projects to you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### "No words, just code!" 🤙
+
+➡️ Living in Niterói, RJ
+➡️ Study at Estácio, Danki Code, Rocketseat and google 🌐
+➡️ If you can follow me and rate my projects, go ahead! ⭐
+
+### My Social Medias 👇
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/matheuslimaitsme/)](https://www.instagram.com/matheuslimaitsme/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-lima-71ab321b6/)](https://www.linkedin.com/in/matheus-lima-71ab321b6/)
