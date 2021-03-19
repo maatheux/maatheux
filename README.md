@@ -1,4 +1,4 @@
-# Hello There
+# Hello There 👋
 
 I'm Matheus Lima, I'm from Brazil and I'm Front-end Developer 💻
 
@@ -10,7 +10,7 @@ I'm always studying and I want to be a Fullstack Developer. While I'm studying I
 
 ➡️ Study at Estácio, Danki Code, Rocketseat and google 🌐
 
-➡️ If you can follow me and rate my projects, go ahead! ⭐
+➡️ If you want to follow me and rate my projects, go ahead! ⭐
 
 ### My Social Medias 👇
 
