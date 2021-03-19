@@ -1,6 +1,6 @@
 # Hello There 👋
 
-I'm Matheus Lima, I'm from Brazil and I'm Front-end Developer 💻
+I'm Matheus Marinho, I'm from Brazil and I'm Front-end Developer 💻
 
 I'm always studying and I want to be a Fullstack Developer. While I'm studying I build some projects and I want to share my projects to you.
 
