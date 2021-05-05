@@ -2,13 +2,13 @@
 
 I'm Matheus Marinho, I'm from Brazil and I'm Front-end Developer 💻
 
-I'm always studying and I want to be a Fullstack Developer. While I'm studying I build some projects and I want to share my projects to you.
+I love to learn more about software development and I'm always learning more about. So I'm sharing my projects here.
 
 #### "No words, just code!" 🤙
 
-➡️ Living in Niterói, RJ
+➡️ Science Computer Student 📖
 
-➡️ Study at Estácio, Danki Code, Rocketseat and google 🌐
+➡️ Building Projects
 
 ➡️ If you want to follow me and rate my projects, go ahead! ⭐
 
