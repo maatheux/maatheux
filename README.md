@@ -1,8 +1,8 @@
 # Hello There 👋
 
-I'm Matheus Marinho, I'm from Brazil and I'm Front-end Developer 💻
+I'm Matheus Marinho, I'm from Brazil and I'm Web Developer 💻
 
-I love to learn more about software development and I'm always learning more about it. So I'm sharing my projects here.
+I love to learn more about web development and I'm always learning more about it. So I'm sharing my projects here.
 
 #### "No words, just code!" 🤙
 
