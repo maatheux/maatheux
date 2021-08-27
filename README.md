@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Marinho</h1>
-<h3 align="center">I'm Web Developer from Brazil</h3>
+<h3 align="center">I'm Software Developer from Brazil</h3>
 
-- 🌱 I’m currently learning **JavaScript and ReactJS**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **matheusmarinho.lima@hotmail.com**
 
