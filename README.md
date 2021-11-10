@@ -1,5 +1,5 @@
 
- <img align="right" min-width="420px" max-width="420px" width="420px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+ <img align="right" min-width="380px" max-width="420px" width="400px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <p align="left"> 
  Hi 👋, I'm Matheus Marinho. I'm Programmer and Information Systems student
