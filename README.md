@@ -2,7 +2,7 @@
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
- Hi 👋, I'm Matheus Marinho. I'm Programmer and Information Systems student
+ Hi 👋, I'm Matheus Marinho. I'm Programmer and Software Engineering student
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
